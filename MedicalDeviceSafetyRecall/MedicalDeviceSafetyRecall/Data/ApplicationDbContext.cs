@@ -1,4 +1,6 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿
+using Microsoft.EntityFrameworkCore;
+using MedicalDeviceSafetyRecall.Models;
 
 namespace MedicalDeviceSafetyRecall.Data
 {
@@ -9,5 +11,7 @@ namespace MedicalDeviceSafetyRecall.Data
             : base(options)
         {
         }
+
+        public DbSet<SafetyNotice> SafetyNotices { get; set; }
     }
 }
