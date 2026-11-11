@@ -1,0 +1,77 @@
+﻿@model Member04_SharingAndCustomerAccess.ViewModels.SharingViewModel
+
+@{
+    ViewData["Title"] = "Share Findings";
+}
+
+<link rel="stylesheet" href="~/css/sharing.css" />
+
+<div class="sharing-container">
+
+    <h2>Share Risk Findings</h2>
+
+    <p>Select a risk finding and customer to share the information.</p>
+
+    @if (TempData["SuccessMessage"] != null)
+    {
+        <div class="success-message">
+            @TempData["SuccessMessage"]
+        </div>
+    }
+
+    <div asp-validation-summary="ModelOnly"
+         class="text-danger"></div>
+
+    <form asp-controller="Sharing"
+          asp-action="Index"
+          method="post">
+
+        @Html.AntiForgeryToken()
+
+        <div class="form-group">
+            <label asp-for="FindingId">Select Risk Finding</label>
+
+            <select asp-for="FindingId"
+                    asp-items="Model.Findings">
+                <option value="0">-- Select Finding --</option>
+            </select>
+
+            <span asp-validation-for="FindingId"
+                  class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="CustomerId">Select Customer</label>
+
+            <select asp-for="CustomerId"
+                    asp-items="Model.Customers">
+                <option value="0">-- Select Customer --</option>
+            </select>
+
+            <span asp-validation-for="CustomerId"
+                  class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="SharedByUserId">Select Employee</label>
+
+            <select asp-for="SharedByUserId"
+                    asp-items="Model.Employees">
+                <option value="0">-- Select Employee --</option>
+            </select>
+
+            <span asp-validation-for="SharedByUserId"
+                  class="text-danger"></span>
+        </div>
+
+        <button type="submit" class="share-button">
+            Share Finding
+        </button>
+
+    </form>
+
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

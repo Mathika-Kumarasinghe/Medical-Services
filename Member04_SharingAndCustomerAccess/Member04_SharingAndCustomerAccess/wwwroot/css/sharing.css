@@ -1,0 +1,54 @@
+﻿
+.sharing-container {
+    max-width: 650px;
+    margin: 50px auto;
+    padding: 30px;
+    background: #ffffff;
+    border-radius: 12px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+}
+
+    .sharing-container h2 {
+        color: #1d3557;
+        margin-bottom: 10px;
+    }
+
+.form-group {
+    margin-top: 22px;
+}
+
+    .form-group label {
+        display: block;
+        font-weight: 600;
+        margin-bottom: 8px;
+    }
+
+    .form-group select {
+        width: 100%;
+        padding: 12px;
+        border: 1px solid #cccccc;
+        border-radius: 6px;
+    }
+
+.share-button {
+    margin-top: 25px;
+    width: 100%;
+    padding: 13px;
+    border: none;
+    border-radius: 6px;
+    background: #1d70a2;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+    .share-button:hover {
+        background: #15567d;
+    }
+
+.success-message {
+    padding: 12px;
+    background: #d1fae5;
+    color: #065f46;
+    border-radius: 6px;
+}

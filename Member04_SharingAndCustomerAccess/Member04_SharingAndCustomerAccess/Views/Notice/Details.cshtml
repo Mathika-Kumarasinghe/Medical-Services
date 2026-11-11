@@ -1,0 +1,52 @@
+﻿@model Member04_SharingAndCustomerAccess.Models.Notice
+
+@{
+    ViewData["Title"] = "Notice Details";
+}
+
+<div class="container mt-4">
+
+    <div class="card shadow-sm">
+
+        <div class="card-header">
+            <h2>Medical Device Notice Details</h2>
+        </div>
+
+        <div class="card-body">
+
+            <h4>@Model.Title</h4>
+
+            <hr />
+
+            <p>
+                <strong>Medical Device:</strong>
+                @Model.DeviceName
+            </p>
+
+            <h5>Notice Description</h5>
+
+            <p>@Model.Description</p>
+
+            <p>
+                <strong>Notice Type:</strong>
+                @Model.NoticeType
+            </p>
+
+            <p>
+                <strong>Published Date:</strong>
+                @Model.PublishedDate.ToString("dd MMM yyyy")
+            </p>
+
+            <hr />
+
+            <a asp-controller="Notice"
+               asp-action="Index"
+               class="btn btn-secondary">
+                Back to Notices
+            </a>
+
+        </div>
+
+    </div>
+
+</div>

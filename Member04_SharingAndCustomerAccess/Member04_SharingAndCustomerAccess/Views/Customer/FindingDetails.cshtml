@@ -1,0 +1,42 @@
+﻿@model Member04_SharingAndCustomerAccess.Models.SharedFinding
+
+@{
+    ViewData["Title"] = "Finding Details";
+}
+
+<div class="container mt-4">
+
+    <div class="card shadow-sm">
+
+        <div class="card-header">
+            <h2>Risk Finding Details</h2>
+        </div>
+
+        <div class="card-body">
+
+            <h4>@Model.Finding?.Title</h4>
+
+            <hr />
+
+            <h5>Finding Description</h5>
+
+            <p>@Model.Finding?.Description</p>
+
+            <hr />
+
+            <p>
+                <strong>Shared Date:</strong>
+                @Model.SharedDate.ToString("dd MMM yyyy")
+            </p>
+
+            <a asp-controller="Customer"
+               asp-action="Dashboard"
+               class="btn btn-secondary">
+                Back to Dashboard
+            </a>
+
+        </div>
+
+    </div>
+
+</div>

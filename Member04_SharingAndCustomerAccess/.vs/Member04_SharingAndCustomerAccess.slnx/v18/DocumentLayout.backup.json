@@ -1,0 +1,522 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UNI works\\Software Engniering\\c# programming\\Member04_SharingAndCustomerAccess\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60BA1A5A-9573-7474-DDF8-BBECC378A8E1}|Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess.csproj|d:\\uni works\\software engniering\\c# programming\\member04_sharingandcustomeraccess\\member04_sharingandcustomeraccess\\controllers\\sharingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60BA1A5A-9573-7474-DDF8-BBECC378A8E1}|Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess.csproj|solutionrelative:member04_sharingandcustomeraccess\\controllers\\sharingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BA1A5A-9573-7474-DDF8-BBECC378A8E1}|Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess.csproj|d:\\uni works\\software engniering\\c# programming\\member04_sharingandcustomeraccess\\member04_sharingandcustomeraccess\\controllers\\noticecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60BA1A5A-9573-7474-DDF8-BBECC378A8E1}|Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess.csproj|solutionrelative:member04_sharingandcustomeraccess\\controllers\\noticecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BA1A5A-9573-7474-DDF8-BBECC378A8E1}|Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess.csproj|d:\\uni works\\software engniering\\c# programming\\member04_sharingandcustomeraccess\\member04_sharingandcustomeraccess\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60BA1A5A-9573-7474-DDF8-BBECC378A8E1}|Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess.csproj|solutionrelative:member04_sharingandcustomeraccess\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BA1A5A-9573-7474-DDF8-BBECC378A8E1}|Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess.csproj|d:\\uni works\\software engniering\\c# programming\\member04_sharingandcustomeraccess\\member04_sharingandcustomeraccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60BA1A5A-9573-7474-DDF8-BBECC378A8E1}|Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess.csproj|solutionrelative:member04_sharingandcustomeraccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BA1A5A-9573-7474-DDF8-BBECC378A8E1}|Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess.csproj|d:\\uni works\\software engniering\\c# programming\\member04_sharingandcustomeraccess\\member04_sharingandcustomeraccess\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60BA1A5A-9573-7474-DDF8-BBECC378A8E1}|Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess.csproj|solutionrelative:member04_sharingandcustomeraccess\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BA1A5A-9573-7474-DDF8-BBECC378A8E1}|Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess.csproj|d:\\uni works\\software engniering\\c# programming\\member04_sharingandcustomeraccess\\member04_sharingandcustomeraccess\\migrations\\20261110111310_createsharingtables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60BA1A5A-9573-7474-DDF8-BBECC378A8E1}|Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess.csproj|solutionrelative:member04_sharingandcustomeraccess\\migrations\\20261110111310_createsharingtables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BA1A5A-9573-7474-DDF8-BBECC378A8E1}|Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess.csproj|d:\\uni works\\software engniering\\c# programming\\member04_sharingandcustomeraccess\\member04_sharingandcustomeraccess\\migrations\\20261110210848_createnoticestable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60BA1A5A-9573-7474-DDF8-BBECC378A8E1}|Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess.csproj|solutionrelative:member04_sharingandcustomeraccess\\migrations\\20261110210848_createnoticestable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BA1A5A-9573-7474-DDF8-BBECC378A8E1}|Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess.csproj|d:\\uni works\\software engniering\\c# programming\\member04_sharingandcustomeraccess\\member04_sharingandcustomeraccess\\views\\notice\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60BA1A5A-9573-7474-DDF8-BBECC378A8E1}|Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess.csproj|solutionrelative:member04_sharingandcustomeraccess\\views\\notice\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BA1A5A-9573-7474-DDF8-BBECC378A8E1}|Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess.csproj|d:\\uni works\\software engniering\\c# programming\\member04_sharingandcustomeraccess\\member04_sharingandcustomeraccess\\views\\notice\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60BA1A5A-9573-7474-DDF8-BBECC378A8E1}|Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess.csproj|solutionrelative:member04_sharingandcustomeraccess\\views\\notice\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BA1A5A-9573-7474-DDF8-BBECC378A8E1}|Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess.csproj|d:\\uni works\\software engniering\\c# programming\\member04_sharingandcustomeraccess\\member04_sharingandcustomeraccess\\views\\customer\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60BA1A5A-9573-7474-DDF8-BBECC378A8E1}|Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess.csproj|solutionrelative:member04_sharingandcustomeraccess\\views\\customer\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\UNI works\\Software Engniering\\c# programming\\Member04_SharingAndCustomerAccess\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BA1A5A-9573-7474-DDF8-BBECC378A8E1}|Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess.csproj|d:\\uni works\\software engniering\\c# programming\\member04_sharingandcustomeraccess\\member04_sharingandcustomeraccess\\models\\notice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60BA1A5A-9573-7474-DDF8-BBECC378A8E1}|Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess.csproj|solutionrelative:member04_sharingandcustomeraccess\\models\\notice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BA1A5A-9573-7474-DDF8-BBECC378A8E1}|Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess.csproj|d:\\uni works\\software engniering\\c# programming\\member04_sharingandcustomeraccess\\member04_sharingandcustomeraccess\\views\\customer\\findingdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60BA1A5A-9573-7474-DDF8-BBECC378A8E1}|Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess.csproj|solutionrelative:member04_sharingandcustomeraccess\\views\\customer\\findingdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BA1A5A-9573-7474-DDF8-BBECC378A8E1}|Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess.csproj|d:\\uni works\\software engniering\\c# programming\\member04_sharingandcustomeraccess\\member04_sharingandcustomeraccess\\models\\finding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60BA1A5A-9573-7474-DDF8-BBECC378A8E1}|Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess.csproj|solutionrelative:member04_sharingandcustomeraccess\\models\\finding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BA1A5A-9573-7474-DDF8-BBECC378A8E1}|Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess.csproj|d:\\uni works\\software engniering\\c# programming\\member04_sharingandcustomeraccess\\member04_sharingandcustomeraccess\\models\\sharedfinding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60BA1A5A-9573-7474-DDF8-BBECC378A8E1}|Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess.csproj|solutionrelative:member04_sharingandcustomeraccess\\models\\sharedfinding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BA1A5A-9573-7474-DDF8-BBECC378A8E1}|Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess.csproj|d:\\uni works\\software engniering\\c# programming\\member04_sharingandcustomeraccess\\member04_sharingandcustomeraccess\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60BA1A5A-9573-7474-DDF8-BBECC378A8E1}|Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess.csproj|solutionrelative:member04_sharingandcustomeraccess\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BA1A5A-9573-7474-DDF8-BBECC378A8E1}|Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess.csproj|d:\\uni works\\software engniering\\c# programming\\member04_sharingandcustomeraccess\\member04_sharingandcustomeraccess\\wwwroot\\css\\sharing.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{60BA1A5A-9573-7474-DDF8-BBECC378A8E1}|Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess.csproj|solutionrelative:member04_sharingandcustomeraccess\\wwwroot\\css\\sharing.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BA1A5A-9573-7474-DDF8-BBECC378A8E1}|Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess.csproj|d:\\uni works\\software engniering\\c# programming\\member04_sharingandcustomeraccess\\member04_sharingandcustomeraccess\\views\\sharing\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60BA1A5A-9573-7474-DDF8-BBECC378A8E1}|Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess.csproj|solutionrelative:member04_sharingandcustomeraccess\\views\\sharing\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BA1A5A-9573-7474-DDF8-BBECC378A8E1}|Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess.csproj|d:\\uni works\\software engniering\\c# programming\\member04_sharingandcustomeraccess\\member04_sharingandcustomeraccess\\viewmodels\\sharingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60BA1A5A-9573-7474-DDF8-BBECC378A8E1}|Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess.csproj|solutionrelative:member04_sharingandcustomeraccess\\viewmodels\\sharingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BA1A5A-9573-7474-DDF8-BBECC378A8E1}|Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess.csproj|d:\\uni works\\software engniering\\c# programming\\member04_sharingandcustomeraccess\\member04_sharingandcustomeraccess\\member04_sharingandcustomeraccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{60BA1A5A-9573-7474-DDF8-BBECC378A8E1}|Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess.csproj|solutionrelative:member04_sharingandcustomeraccess\\member04_sharingandcustomeraccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\UNI works\\Software Engniering\\c# programming\\Member04_SharingAndCustomerAccess\\SQLQuery2.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery2.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BA1A5A-9573-7474-DDF8-BBECC378A8E1}|Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess.csproj|d:\\uni works\\software engniering\\c# programming\\member04_sharingandcustomeraccess\\member04_sharingandcustomeraccess\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60BA1A5A-9573-7474-DDF8-BBECC378A8E1}|Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess.csproj|solutionrelative:member04_sharingandcustomeraccess\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BA1A5A-9573-7474-DDF8-BBECC378A8E1}|Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess.csproj|d:\\uni works\\software engniering\\c# programming\\member04_sharingandcustomeraccess\\member04_sharingandcustomeraccess\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{60BA1A5A-9573-7474-DDF8-BBECC378A8E1}|Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess.csproj|solutionrelative:member04_sharingandcustomeraccess\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BA1A5A-9573-7474-DDF8-BBECC378A8E1}|Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess.csproj|d:\\uni works\\software engniering\\c# programming\\member04_sharingandcustomeraccess\\member04_sharingandcustomeraccess\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{60BA1A5A-9573-7474-DDF8-BBECC378A8E1}|Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess.csproj|solutionrelative:member04_sharingandcustomeraccess\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BA1A5A-9573-7474-DDF8-BBECC378A8E1}|Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess.csproj|d:\\uni works\\software engniering\\c# programming\\member04_sharingandcustomeraccess\\member04_sharingandcustomeraccess\\wwwroot\\js\\sharing.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{60BA1A5A-9573-7474-DDF8-BBECC378A8E1}|Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess.csproj|solutionrelative:member04_sharingandcustomeraccess\\wwwroot\\js\\sharing.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BA1A5A-9573-7474-DDF8-BBECC378A8E1}|Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess.csproj|d:\\uni works\\software engniering\\c# programming\\member04_sharingandcustomeraccess\\member04_sharingandcustomeraccess\\viewmodels\\findingdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60BA1A5A-9573-7474-DDF8-BBECC378A8E1}|Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess.csproj|solutionrelative:member04_sharingandcustomeraccess\\viewmodels\\findingdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BA1A5A-9573-7474-DDF8-BBECC378A8E1}|Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess.csproj|d:\\uni works\\software engniering\\c# programming\\member04_sharingandcustomeraccess\\member04_sharingandcustomeraccess\\viewmodels\\customerdashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60BA1A5A-9573-7474-DDF8-BBECC378A8E1}|Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess.csproj|solutionrelative:member04_sharingandcustomeraccess\\viewmodels\\customerdashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BA1A5A-9573-7474-DDF8-BBECC378A8E1}|Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess.csproj|d:\\uni works\\software engniering\\c# programming\\member04_sharingandcustomeraccess\\member04_sharingandcustomeraccess\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60BA1A5A-9573-7474-DDF8-BBECC378A8E1}|Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess.csproj|solutionrelative:member04_sharingandcustomeraccess\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BA1A5A-9573-7474-DDF8-BBECC378A8E1}|Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess.csproj|d:\\uni works\\software engniering\\c# programming\\member04_sharingandcustomeraccess\\member04_sharingandcustomeraccess\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60BA1A5A-9573-7474-DDF8-BBECC378A8E1}|Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess.csproj|solutionrelative:member04_sharingandcustomeraccess\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BA1A5A-9573-7474-DDF8-BBECC378A8E1}|Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess.csproj|d:\\uni works\\software engniering\\c# programming\\member04_sharingandcustomeraccess\\member04_sharingandcustomeraccess\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60BA1A5A-9573-7474-DDF8-BBECC378A8E1}|Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess.csproj|solutionrelative:member04_sharingandcustomeraccess\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BA1A5A-9573-7474-DDF8-BBECC378A8E1}|Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess.csproj|d:\\uni works\\software engniering\\c# programming\\member04_sharingandcustomeraccess\\member04_sharingandcustomeraccess\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60BA1A5A-9573-7474-DDF8-BBECC378A8E1}|Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess.csproj|solutionrelative:member04_sharingandcustomeraccess\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\UNI works\\Software Engniering\\c# programming\\Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Member04_SharingAndCustomerAccess\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\UNI works\\Software Engniering\\c# programming\\Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Member04_SharingAndCustomerAccess\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T03:14:03.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20261110111310_CreateSharingTables.cs",
+              "DocumentMoniker": "D:\\UNI works\\Software Engniering\\c# programming\\Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess\\Migrations\\20261110111310_CreateSharingTables.cs",
+              "RelativeDocumentMoniker": "Member04_SharingAndCustomerAccess\\Migrations\\20261110111310_CreateSharingTables.cs",
+              "ToolTip": "D:\\UNI works\\Software Engniering\\c# programming\\Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess\\Migrations\\20261110111310_CreateSharingTables.cs",
+              "RelativeToolTip": "Member04_SharingAndCustomerAccess\\Migrations\\20261110111310_CreateSharingTables.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T11:13:10.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NoticeController.cs",
+              "DocumentMoniker": "D:\\UNI works\\Software Engniering\\c# programming\\Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess\\Controllers\\NoticeController.cs",
+              "RelativeDocumentMoniker": "Member04_SharingAndCustomerAccess\\Controllers\\NoticeController.cs",
+              "ToolTip": "D:\\UNI works\\Software Engniering\\c# programming\\Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess\\Controllers\\NoticeController.cs",
+              "RelativeToolTip": "Member04_SharingAndCustomerAccess\\Controllers\\NoticeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T21:13:19.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SharingController.cs",
+              "DocumentMoniker": "D:\\UNI works\\Software Engniering\\c# programming\\Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess\\Controllers\\SharingController.cs",
+              "RelativeDocumentMoniker": "Member04_SharingAndCustomerAccess\\Controllers\\SharingController.cs",
+              "ToolTip": "D:\\UNI works\\Software Engniering\\c# programming\\Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess\\Controllers\\SharingController.cs",
+              "RelativeToolTip": "Member04_SharingAndCustomerAccess\\Controllers\\SharingController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T01:55:52.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "D:\\UNI works\\Software Engniering\\c# programming\\Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "Member04_SharingAndCustomerAccess\\Models\\Comment.cs",
+              "ToolTip": "D:\\UNI works\\Software Engniering\\c# programming\\Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess\\Models\\Comment.cs",
+              "RelativeToolTip": "Member04_SharingAndCustomerAccess\\Models\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T02:55:59.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "D:\\UNI works\\Software Engniering\\c# programming\\Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Member04_SharingAndCustomerAccess\\Controllers\\CustomerController.cs",
+              "ToolTip": "D:\\UNI works\\Software Engniering\\c# programming\\Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Member04_SharingAndCustomerAccess\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAqwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T02:02:16.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20261110210848_CreateNoticesTable.cs",
+              "DocumentMoniker": "D:\\UNI works\\Software Engniering\\c# programming\\Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess\\Migrations\\20261110210848_CreateNoticesTable.cs",
+              "RelativeDocumentMoniker": "Member04_SharingAndCustomerAccess\\Migrations\\20261110210848_CreateNoticesTable.cs",
+              "ToolTip": "D:\\UNI works\\Software Engniering\\c# programming\\Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess\\Migrations\\20261110210848_CreateNoticesTable.cs",
+              "RelativeToolTip": "Member04_SharingAndCustomerAccess\\Migrations\\20261110210848_CreateNoticesTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T21:08:49.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\UNI works\\Software Engniering\\c# programming\\Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess\\Views\\Notice\\Index.cshtml",
+              "RelativeDocumentMoniker": "Member04_SharingAndCustomerAccess\\Views\\Notice\\Index.cshtml",
+              "ToolTip": "D:\\UNI works\\Software Engniering\\c# programming\\Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess\\Views\\Notice\\Index.cshtml",
+              "RelativeToolTip": "Member04_SharingAndCustomerAccess\\Views\\Notice\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-10T21:20:33.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "D:\\UNI works\\Software Engniering\\c# programming\\Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess\\Views\\Customer\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "Member04_SharingAndCustomerAccess\\Views\\Customer\\Dashboard.cshtml",
+              "ToolTip": "D:\\UNI works\\Software Engniering\\c# programming\\Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess\\Views\\Customer\\Dashboard.cshtml",
+              "RelativeToolTip": "Member04_SharingAndCustomerAccess\\Views\\Customer\\Dashboard.cshtml",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAAAE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-10T02:14:05.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FindingDetails.cshtml",
+              "DocumentMoniker": "D:\\UNI works\\Software Engniering\\c# programming\\Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess\\Views\\Customer\\FindingDetails.cshtml",
+              "RelativeDocumentMoniker": "Member04_SharingAndCustomerAccess\\Views\\Customer\\FindingDetails.cshtml",
+              "ToolTip": "D:\\UNI works\\Software Engniering\\c# programming\\Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess\\Views\\Customer\\FindingDetails.cshtml",
+              "RelativeToolTip": "Member04_SharingAndCustomerAccess\\Views\\Customer\\FindingDetails.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-10T02:14:33.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Notice.cs",
+              "DocumentMoniker": "D:\\UNI works\\Software Engniering\\c# programming\\Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess\\Models\\Notice.cs",
+              "RelativeDocumentMoniker": "Member04_SharingAndCustomerAccess\\Models\\Notice.cs",
+              "ToolTip": "D:\\UNI works\\Software Engniering\\c# programming\\Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess\\Models\\Notice.cs",
+              "RelativeToolTip": "Member04_SharingAndCustomerAccess\\Models\\Notice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T02:55:42.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\UNI works\\Software Engniering\\c# programming\\Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess\\Views\\Notice\\Details.cshtml",
+              "RelativeDocumentMoniker": "Member04_SharingAndCustomerAccess\\Views\\Notice\\Details.cshtml",
+              "ToolTip": "D:\\UNI works\\Software Engniering\\c# programming\\Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess\\Views\\Notice\\Details.cshtml",
+              "RelativeToolTip": "Member04_SharingAndCustomerAccess\\Views\\Notice\\Details.cshtml",
+              "ViewState": "AgIAABwAAAAAAAAAAAAqwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-11T02:20:36.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SQLQuery1.sql",
+              "DocumentMoniker": "D:\\UNI works\\Software Engniering\\c# programming\\Member04_SharingAndCustomerAccess\\SQLQuery1.sql",
+              "RelativeDocumentMoniker": "SQLQuery1.sql",
+              "ToolTip": "D:\\UNI works\\Software Engniering\\c# programming\\Member04_SharingAndCustomerAccess\\SQLQuery1.sql",
+              "RelativeToolTip": "SQLQuery1.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-11-10T21:28:36.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\UNI works\\Software Engniering\\c# programming\\Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Member04_SharingAndCustomerAccess\\Models\\User.cs",
+              "ToolTip": "D:\\UNI works\\Software Engniering\\c# programming\\Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess\\Models\\User.cs",
+              "RelativeToolTip": "Member04_SharingAndCustomerAccess\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T02:54:49.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SharedFinding.cs",
+              "DocumentMoniker": "D:\\UNI works\\Software Engniering\\c# programming\\Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess\\Models\\SharedFinding.cs",
+              "RelativeDocumentMoniker": "Member04_SharingAndCustomerAccess\\Models\\SharedFinding.cs",
+              "ToolTip": "D:\\UNI works\\Software Engniering\\c# programming\\Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess\\Models\\SharedFinding.cs",
+              "RelativeToolTip": "Member04_SharingAndCustomerAccess\\Models\\SharedFinding.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T02:03:23.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Finding.cs",
+              "DocumentMoniker": "D:\\UNI works\\Software Engniering\\c# programming\\Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess\\Models\\Finding.cs",
+              "RelativeDocumentMoniker": "Member04_SharingAndCustomerAccess\\Models\\Finding.cs",
+              "ToolTip": "D:\\UNI works\\Software Engniering\\c# programming\\Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess\\Models\\Finding.cs",
+              "RelativeToolTip": "Member04_SharingAndCustomerAccess\\Models\\Finding.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T02:55:10.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SharingViewModel.cs",
+              "DocumentMoniker": "D:\\UNI works\\Software Engniering\\c# programming\\Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess\\ViewModels\\SharingViewModel.cs",
+              "RelativeDocumentMoniker": "Member04_SharingAndCustomerAccess\\ViewModels\\SharingViewModel.cs",
+              "ToolTip": "D:\\UNI works\\Software Engniering\\c# programming\\Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess\\ViewModels\\SharingViewModel.cs",
+              "RelativeToolTip": "Member04_SharingAndCustomerAccess\\ViewModels\\SharingViewModel.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAIwBUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T02:05:50.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\UNI works\\Software Engniering\\c# programming\\Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess\\Views\\Sharing\\Index.cshtml",
+              "RelativeDocumentMoniker": "Member04_SharingAndCustomerAccess\\Views\\Sharing\\Index.cshtml",
+              "ToolTip": "D:\\UNI works\\Software Engniering\\c# programming\\Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess\\Views\\Sharing\\Index.cshtml",
+              "RelativeToolTip": "Member04_SharingAndCustomerAccess\\Views\\Sharing\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-10T02:12:54.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "sharing.css",
+              "DocumentMoniker": "D:\\UNI works\\Software Engniering\\c# programming\\Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess\\wwwroot\\css\\sharing.css",
+              "RelativeDocumentMoniker": "Member04_SharingAndCustomerAccess\\wwwroot\\css\\sharing.css",
+              "ToolTip": "D:\\UNI works\\Software Engniering\\c# programming\\Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess\\wwwroot\\css\\sharing.css",
+              "RelativeToolTip": "Member04_SharingAndCustomerAccess\\wwwroot\\css\\sharing.css",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-11-10T02:23:33.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SQLQuery2.sql",
+              "DocumentMoniker": "D:\\UNI works\\Software Engniering\\c# programming\\Member04_SharingAndCustomerAccess\\SQLQuery2.sql",
+              "RelativeDocumentMoniker": "SQLQuery2.sql",
+              "ToolTip": "D:\\UNI works\\Software Engniering\\c# programming\\Member04_SharingAndCustomerAccess\\SQLQuery2.sql",
+              "RelativeToolTip": "SQLQuery2.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-11-10T15:27:22.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Member04_SharingAndCustomerAccess.csproj",
+              "DocumentMoniker": "D:\\UNI works\\Software Engniering\\c# programming\\Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess.csproj",
+              "RelativeDocumentMoniker": "Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess.csproj",
+              "ToolTip": "D:\\UNI works\\Software Engniering\\c# programming\\Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess.csproj",
+              "RelativeToolTip": "Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-10T03:12:55.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\UNI works\\Software Engniering\\c# programming\\Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess\\Program.cs",
+              "RelativeDocumentMoniker": "Member04_SharingAndCustomerAccess\\Program.cs",
+              "ToolTip": "D:\\UNI works\\Software Engniering\\c# programming\\Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess\\Program.cs",
+              "RelativeToolTip": "Member04_SharingAndCustomerAccess\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T10:27:05.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\UNI works\\Software Engniering\\c# programming\\Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Member04_SharingAndCustomerAccess\\appsettings.Development.json",
+              "ToolTip": "D:\\UNI works\\Software Engniering\\c# programming\\Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess\\appsettings.Development.json",
+              "RelativeToolTip": "Member04_SharingAndCustomerAccess\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-10T03:47:25.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\UNI works\\Software Engniering\\c# programming\\Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess\\appsettings.json",
+              "RelativeDocumentMoniker": "Member04_SharingAndCustomerAccess\\appsettings.json",
+              "ToolTip": "D:\\UNI works\\Software Engniering\\c# programming\\Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess\\appsettings.json",
+              "RelativeToolTip": "Member04_SharingAndCustomerAccess\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-10T03:47:10.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "sharing.js",
+              "DocumentMoniker": "D:\\UNI works\\Software Engniering\\c# programming\\Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess\\wwwroot\\js\\sharing.js",
+              "RelativeDocumentMoniker": "Member04_SharingAndCustomerAccess\\wwwroot\\js\\sharing.js",
+              "ToolTip": "D:\\UNI works\\Software Engniering\\c# programming\\Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess\\wwwroot\\js\\sharing.js",
+              "RelativeToolTip": "Member04_SharingAndCustomerAccess\\wwwroot\\js\\sharing.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-11-10T02:36:58.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FindingDetailsViewModel.cs",
+              "DocumentMoniker": "D:\\UNI works\\Software Engniering\\c# programming\\Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess\\ViewModels\\FindingDetailsViewModel.cs",
+              "RelativeDocumentMoniker": "Member04_SharingAndCustomerAccess\\ViewModels\\FindingDetailsViewModel.cs",
+              "ToolTip": "D:\\UNI works\\Software Engniering\\c# programming\\Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess\\ViewModels\\FindingDetailsViewModel.cs",
+              "RelativeToolTip": "Member04_SharingAndCustomerAccess\\ViewModels\\FindingDetailsViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T02:07:12.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CustomerDashboardViewModel.cs",
+              "DocumentMoniker": "D:\\UNI works\\Software Engniering\\c# programming\\Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess\\ViewModels\\CustomerDashboardViewModel.cs",
+              "RelativeDocumentMoniker": "Member04_SharingAndCustomerAccess\\ViewModels\\CustomerDashboardViewModel.cs",
+              "ToolTip": "D:\\UNI works\\Software Engniering\\c# programming\\Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess\\ViewModels\\CustomerDashboardViewModel.cs",
+              "RelativeToolTip": "Member04_SharingAndCustomerAccess\\ViewModels\\CustomerDashboardViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T02:06:51.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\UNI works\\Software Engniering\\c# programming\\Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Member04_SharingAndCustomerAccess\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\UNI works\\Software Engniering\\c# programming\\Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Member04_SharingAndCustomerAccess\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-10T01:42:55.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\UNI works\\Software Engniering\\c# programming\\Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Member04_SharingAndCustomerAccess\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\UNI works\\Software Engniering\\c# programming\\Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Member04_SharingAndCustomerAccess\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-10T01:42:54.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\UNI works\\Software Engniering\\c# programming\\Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Member04_SharingAndCustomerAccess\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\UNI works\\Software Engniering\\c# programming\\Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Member04_SharingAndCustomerAccess\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-10T01:42:52.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\UNI works\\Software Engniering\\c# programming\\Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Member04_SharingAndCustomerAccess\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\UNI works\\Software Engniering\\c# programming\\Member04_SharingAndCustomerAccess\\Member04_SharingAndCustomerAccess\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Member04_SharingAndCustomerAccess\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-10T01:42:50.918Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
